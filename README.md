@@ -53,14 +53,14 @@ The project follows these steps:
 
 3. **Model Training**
    - Split the dataset into training and testing sets.
-   - Train a classification model using algorithms like Naive Bayes, Logistic Regression, or Support Vector Machines (SVM).
+   - Train a classification model using the Naive Bayes algorithm (specifically Multinomial Naive Bayes).
 
 4. **Model Evaluation**
    - Evaluate the model's performance using metrics like accuracy, precision, recall, and F1-score.
    - Visualize results using confusion matrices.
 
 ## Results
-The best-performing model achieved the following:
+The Naive Bayes model achieved the following:
 - **Accuracy**: [Insert Accuracy Here]
 - **Precision**: [Insert Precision Here]
 - **Recall**: [Insert Recall Here]
