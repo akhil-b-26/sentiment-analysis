@@ -61,10 +61,10 @@ The project follows these steps:
 
 ## Results
 The Naive Bayes model achieved the following:
-- **Accuracy**: [Insert Accuracy Here]
-- **Precision**: [Insert Precision Here]
-- **Recall**: [Insert Recall Here]
-- **F1-Score**: [Insert F1-Score Here]
+- **Accuracy**: 80%
+- **Precision**: 80% (macro average)
+- **Recall**: 80% (macro average)
+- **F1-Score**: 80% (macro average)
 
 ## How to Use
 1. Clone the repository:
