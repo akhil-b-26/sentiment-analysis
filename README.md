@@ -20,6 +20,8 @@ The dataset used in this project consists of restaurant reviews with the followi
 - **Review Text**: The content of the review.
 - **Liked**: A binary label indicating whether the review is positive (`1`) or negative (`0`).
 
+The dataset used for this project can be accessed on [Kaggle](https://www.kaggle.com/).
+
 ## Features
 The sentiment analysis model extracts relevant features from the text, such as:
 - Text preprocessing (e.g., removing special characters, stopwords).
