@@ -71,8 +71,8 @@ The Naive Bayes model achieved the following:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-restaurant-reviews.git
-   cd sentiment-analysis-restaurant-reviews
+   git clone https://github.com/akhil-b-26/sentiment-analysis.git
+   cd sentiment-analysis
    ```
 
 2. Install the dependencies:
