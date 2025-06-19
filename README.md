@@ -75,10 +75,7 @@ The Naive Bayes model achieved the following:
    cd sentiment-analysis
    ```
 
-2. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install the dependencies as shown in [Dependencies](#dependencies)
 
 3. Run the notebook or script:
    ```bash
